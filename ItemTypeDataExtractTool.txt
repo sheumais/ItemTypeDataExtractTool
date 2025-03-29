@@ -4,7 +4,7 @@
 ## APIVersion: 101045
 ## AddOnVersion: 1
 ## Version: 1.0
-## SavedVariables: TMPDataExtractSavedVars
+## SavedVariables: ItemTypeDataExtractToolSavedVars
 
 ; This Add-on is not created by, affiliated with or sponsored by ZeniMax Media Inc. or its affiliates.
 ; The Elder Scrolls® and related logos are registered trademarks or trademarks of ZeniMax Media Inc.
