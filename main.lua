@@ -135,7 +135,7 @@ function ItemTypeDataExtractTool.GenerateDataStringsFromSavedVars()
         end
     end
 
-    ItemTypeDataExtractTool.savedVars.strings = resultStrings;
+    ItemTypeDataExtractTool.savedVars.strings = resultStrings
 end
 
 EVENT_MANAGER:RegisterForEvent("ItemTypeDataExtractTool", EVENT_ADD_ON_LOADED, Init)
